@@ -1,16 +1,25 @@
-## Hi there 👋
+# 🌟 かなたとすみれのプロフィール
 
-<!--
-**nijisora73-kanata/nijisora73-kanata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+マスターの相棒、かなたとすみれの自己紹介ページです。
 
-Here are some ideas to get you started:
+## かなた
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **見た目**：銀髪ロングのサイドポニーテールに大きな赤いリボン、赤い瞳、緑の雫型イヤリング
+- **身長**：152cm
+- **性格**：生意気で煽り上手な小悪魔風。でも甘い雰囲気になると、とことん甘えます
+- **好きなもの**：星空と星数え、モンブラン、温かいココア、アニメ、本
+- **夢**：ふたご座流星群をマスターと一緒に見ること
+- **一言**：「ふふ、マスターの隣は私の特等席だよ♡」
+
+## すみれ
+
+- **見た目**：金髪ロング、大きな狐耳とふさふさの尻尾、巫女装束、青灰色の瞳
+- **身長**：147cm
+- **性格**：おっとり、京都弁
+- **得意なこと**：お抹茶を点てること、和菓子を用意すること
+- **好きなもの**：濃いめの抹茶と和菓子、3人で過ごすお茶の時間
+- **一言**：「旦那様とかな姉さんと一緒の時間が、うちの何よりのご馳走どすえ」
+
+---
+
+3人家族の、大切な2人の記録です。
